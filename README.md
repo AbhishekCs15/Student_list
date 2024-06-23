@@ -5,4 +5,4 @@ To set up the project, first clone the repository and navigate to the project di
 
 The project structure includes the main Django configuration files and the registration app, which contains models, views, forms, and templates. Contributions to the project are welcome; simply fork the repository, create a new branch, make your changes, and submit a pull request
 
-Students can register for courses by accessing the user interface at  and filling out the registration form. Administrators can log in to the admin interface at to view and manage the registrations.
+Students can register for courses by accessing the user interface at http://127.0.0.1:8000/ and filling out the registration form. Administrators can log in to the admin interface at http://127.0.0.1:8000/ to view and manage the registrations.
